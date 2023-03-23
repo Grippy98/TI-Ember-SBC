@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 97a05c6f-ebe3-4758-b86e-7f28ef9207d3)
+
+  (paper "A4")
+
+  (title_block
+    (title "TI Ember AM62 SiP Concept")
+    (date "2023-06-09")
+    (rev "Rev 0")
+    (company "Andrei Aldea - Texas Instruments")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "TBD" (at 127 101.6 0)
+    (effects (font (size 13 13)) (justify left bottom))
+    (uuid aad62f01-cdda-4515-adba-571fc7a8bfa2)
+  )
+)

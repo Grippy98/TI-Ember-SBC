@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e07dbed5-1f90-411e-a63d-29c65c0e8dad)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "TBD" (at 123.19 85.09 0)
+    (effects (font (size 13 13)) (justify left bottom))
+    (uuid 748eafda-6aec-4815-aa09-613d1059a882)
+  )
+  (text "CC33x Wifi 6 + BT Module" (at 53.34 107.95 0)
+    (effects (font (size 10 10)) (justify left bottom))
+    (uuid e48e4054-3480-4301-9e21-cc4967854756)
+  )
+)

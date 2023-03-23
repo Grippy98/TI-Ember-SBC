@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2f583784-644e-4ceb-8169-0d66cc8bd194)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "TBD" (at 115.57 92.71 0)
+    (effects (font (size 13 13)) (justify left bottom))
+    (uuid 6e28ff14-6122-4f7e-83e2-502a32987d01)
+  )
+  (text "MSPM0 MCU" (at 92.71 114.3 0)
+    (effects (font (size 10 10)) (justify left bottom))
+    (uuid f55393d7-114b-461f-9487-0c36c01ec01c)
+  )
+)
